@@ -1,4 +1,4 @@
-// 判定是否互为字符重排
+//【判定是否互为字符重排】
 // 题目链接：https://leetcode-cn.com/problems/check-permutation-lcci/
 // 给定两个字符串 s1 和 s2，请编写一个程序，确定其中一个字符串的字符重新排列后，能否变成另一个字符串。
 
